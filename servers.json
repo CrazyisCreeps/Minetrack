@@ -1,14 +1,20 @@
 [
 	{
-		"name": "Hypixel",
-		"ip": "mc.hypixel.net",
+		"name": "Stratus Network",
+		"ip": "play.stratus.network",
 		"type": "PC",
-		"category": "minigames"
+		"category": "pgm"
 	},
 	{
-		"name": "HiveMC",
-		"ip": "play.hivemc.com",
+		"name": "VectorMC",
+		"ip": "play.vectormc.net",
 		"type": "PC",
-		"category": "minigames"
+		"category": "pgm"
+	}
+	{
+		"name": "Warzone",
+		"ip": "warzone.minehut.gg",
+		"type": "PC",
+		"category": "pgm"
 	}
 ]
